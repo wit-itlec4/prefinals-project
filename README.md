@@ -1,30 +1,28 @@
-# 2D Game Development
-Midterm project for students taking up Game and Entertainment Programming.
+# 3D Game Development
+Prefinals project for students taking up ITLE4 (Introduction to Game Development).
 ***
 
 ### Objective
-The main objective of this midterm project is to evaluate student learning in terms of applying the emerging technologies and best practices used in two-dimentional game development.
+The main objective of this prefinals project is to evaluate student learning in terms of applying the emerging technologies and best practices used in three-dimentional game development using Unreal Game Engine.
 
 #### Specifications
-* Find your team members (maximum of five per team) and develop a 2D game using [Godot Game Engine](https://godotengine.org/).
+* Find your team members (maximum of seven per team) and develop a 3D game using [Unreal Game Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4). Although you can use the newest version, **it is recommended to use UDK3** due to compatibility issues with our current workstations.
 * The team is free to choose what genre of game they will be developing (Action, Horror, Adventure, Arcade, Strategy...etc).
-* Third-party assets from [opengameart.org](https://opengameart.org/) or from other sources are permitted just give them proper credit in your project’s source code. **Please be sure that you do not violate any usage rules of your third-party assets**.
-* The game display dimentions should be ```1280 * 720``` pixels landscape or portrait.
-* There are no limitations on the number of game levels you will be developing.
-* This project will be published under the CICT's Google Play Store Account and will be featured on the college social network accounts as well.
+* Your are only require to create a single level game complete with AI bots.
+* Chosen projects will be featured on social networks by the department or instructor.
 
 #### What to submit?
 * A packaged game with an **overview description** and a **list of group members** in the ABOUT.txt file.
-* **Three screenshots** of your game.
-* Your **game icon** in PNG format with not less than ```500 * 500``` pixels dimension.
+* **Three screenshots or more** of your game.
+* Short Gameplay Video
 
 #### Project Deadline
-**Aug 30-31 2017 18:00:00 GMT+0800**. Submit personally or via email.
+**March 14 2018 18:00:00 GMT+0800**. Submit personally or via email.
 
 #### Grading
 | Component | Description | Percentage |
 | :---- | :---- |:----: |
-| Quality of Submission | How polished, detailed and visually appealing is your 2D game? How well do you use special effects, audio and physics to develop immersive gameplay? | 40% |
+| Quality of Submission | How polished, detailed and visually appealing is your 3D game? How well do you use special effects, objects, audio and physics to develop immersive gameplay? | 40% |
 | Creativity | Did your team create something that pushes the boundaries of imagination? | 30% |
 | Development Excellence | Is your game code organized, fluid and fully functional that others will appreciate your craftsmanship skills? | 20% |
 | Credits and Documentation | Did you properly cited the sources of your game assets as well as added descriptions to your code? | 10% |
@@ -44,9 +42,9 @@ non-working team member. After verification, his/her project grade will be affec
 
 ***
 
-Happy coding,
+Happy game programming,
 
 ![logo](logo.png "log0")<br>
 **mjsolidarios**
-<br>forever-part-time-faculty | cictwvsu | ph
+<br>forever-part-time-faculty | wit/wvsu | ph
 <br><mjsolidarios@wvsu.edu.ph>
