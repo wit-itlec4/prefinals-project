@@ -8,7 +8,7 @@ The main objective of this prefinals project is to evaluate student learning in 
 #### Specifications
 * Find your team members (maximum of seven per team) and develop a 3D game using [Unreal Game Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4). Although you can use the newest version, **it is recommended to use UDK3** due to compatibility issues with our current workstations.
 * The team is free to choose what genre of game they will be developing (Action, Horror, Adventure, Arcade, Strategy...etc).
-* Your are only require to create a single level game complete with AI bots.
+* Your are only required to create a single level game complete with AI bots.
 * Chosen projects will be featured on social networks by the department or instructor.
 
 #### What to submit?
